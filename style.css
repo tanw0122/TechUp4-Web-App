@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(2, 1, 8);
+    color: rgb(255, 255, 255);
     background-color: rgb(75, 91, 238);
 
     text-align: center;
@@ -16,5 +16,5 @@ title {
 }
 
 #important {
-    color: rgb(2, 1, 8);
+    color: rgb(255, 255, 255);
 }
